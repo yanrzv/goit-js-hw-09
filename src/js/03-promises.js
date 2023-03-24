@@ -5,6 +5,7 @@ let delay = 0;
 let step = 0;
 let amount = 0;
 let promiseDelay = 0;
+let startDelay = 0;
 
 form.addEventListener('submit', onFormSubmit);
 
